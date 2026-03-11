@@ -28,6 +28,14 @@ The application reads expense data from a CSV file and presents it through dynam
 
 ---
 
+## Application Screenshots
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9ef0e230-130f-430c-8662-42482fc48486" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/471991cb-734b-4ca4-9b58-cd645cf64c55" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3fb7e19a-4930-4dd2-ab8e-d6ce139ad1a6" />
+
+---
+
 ## Technologies Used
 
 * **Python**
